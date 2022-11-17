@@ -213,7 +213,7 @@ github repo
 ## Authors
 
 * Dovine Owuor, [@Dove-Owuor](https://github.com/Dovineowuor)
-* Dovine Owuor , [GitHub ](https://github.com/DovineOwuor) [Portfolio](http://www.Dovibeowuor.github.io/) | [Twitter](https://twitter.com/Dove-owuor)
+* Dovine Owuor , [GitHub ](https://github.com/DovineOwuor) [Portfolio](http://www.Dovibeowuor.github.io/) | [Twitter](https://twitter.com/Doveowuor)
 * ---, [Yoxo](https://github.com/) | [---](https://twitter.com/) | [yoxo--1@gmail.com](yoxo--1@gmail.com)
 * Carrie Ybay, [yoxo](https://github.com/yoxo) | [@yoxo_](https://twitter.com/yoxo)
 * Yoxo, [yoxo](https://github.com/yoxo) | [@yoxo](https://twitter.com/yoxo)
