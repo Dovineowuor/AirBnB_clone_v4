@@ -210,10 +210,14 @@ create: create [ARG] [PARAM 1] [PARAM 2] ...
 Uses [Travis-CI](https://travis-ci.org/) to run all tests on all commits to the
 github repo
 
-## Authors
 
-* Dovine Owuor, [@Dove-Owuor](https://github.com/Dovineowuor)
-* Dovine Owuor , [GitHub ](https://github.com/DovineOwuor) [Portfolio](http://www.Dovibeowuor.github.io/) | [Twitter](https://twitter.com/Doveowuor)
-* ---, [Yoxo](https://github.com/) | [---](https://twitter.com/) | [yoxo--1@gmail.com](yoxo--1@gmail.com)
-* Carrie Ybay, [yoxo](https://github.com/yoxo) | [@yoxo_](https://twitter.com/yoxo)
-* Yoxo, [yoxo](https://github.com/yoxo) | [@yoxo](https://twitter.com/yoxo)
+<!-- | ## AUTHORS  | Social Links |
+| ------------- | ------------- |
+| Dovine Owuor  | [Linkedin](https://linkedin.com/in/Dovine-owuor) | [Github](https://github.com/dovineowuor) | [Twitter](https://twitter.com/DoveOwuor) | [Github](https://github.com/yoxo) | [SEND EMAIL](owuordove@gmail.com) |
+ |  Yoxo,  | [Linkedin](https://linkedin.com/in/) | [Github](https://github.com/dovineowuor) | [Twitter](https://twitter.com/) | [Github](https://github.com/) | [SEND EMAIL](username@domain.com)  | -->
+<!-- ![Agile Web Development Process_0](https://user-images.githubusercontent.com/70941806/202572440-ac6f83d1-de50-4d30-8188-9f06e6e5f3fd.jpg) -->
+
+|  Index         |Author                          |Social Links                         |
+|----------------|-------------------------------|-----------------------------|
+| 1 |Dovine Owuor            |<table>  <thead>  <tr>  <th></th>  <th>Platfprm</th>  <th>Link</th>  </tr>  </thead>  <tbody>  <tr>  <td>1</td>  <td><code>[Twitter](https://twitter.com/DoveOwuor)</code></td>  <td> [Twitter](https://twitter.com/DoveOwuor) </td>  </tr>  <tr>  <td> 2 </td>  <td><code>[Portfolio](https://dovineowuor.web1.app)</code></td>  <td>[Portfolio](https://dovineowuor.web1.app)</td>  </tr>  <tr>  <td>3</td>  <td><code> [Github](https://github.com/dovineowuor)  </code></td>  <td>[Github](https://github.com/dovineowuor)</td>  </tr> <tr>  <td>4</td>  <td><code> [Send Email](owuordove@gmail.com)  </code></td>  <td>[owuordove@gmail.com](owuordove@gmail.com)</td>  </tr> </tbody>  </table>      |
+|2         |Yoxo|<table>  <thead>  <tr>  <th></th>  <th>Platfprm</th>  <th>Link</th>  </tr>  </thead>  <tbody>  <tr>  <td>1</td>  <td><code>[Twitter](https://twitter.com)</code></td>  <td> [Twitter](https://twitter.com/) </td>  </tr>  <tr>  <td> 2 </td>  <td><code>[Portfolio](https://portfolio.com)</code></td>  <td>[Portfolio](https://portfolio.com)</td>  </tr>  <tr>  <td>3</td>  <td><code> [Github](https://github.com/)  </code></td>  <td>[Github](https://github.com/)</td> </tr> <tr>  <td>4</td>  <td><code> [Send Email](username@domain.com)  </code></td>  <td>[username@domain.com](username@domain.com)</td>  </tr> </tr>  </tbody>  </table> |
