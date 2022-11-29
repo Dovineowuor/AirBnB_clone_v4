@@ -1,6 +1,6 @@
 <img src="https://github.com/Dovineowuor/AirBnB_clone_v3/blob/main/HBTN-hbnb-Final.png" width="160" height=auto />
 
-# AirBnB Clone: Phase # 3
+# AirBnB Clone: Phase # 4
 ### 0x05. AirBnB clone - RESTful API
 
 : API with Swagger
